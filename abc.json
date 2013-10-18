@@ -1,0 +1,14 @@
+{
+    "name": "kprogress",
+    "version": "1.0",
+    "desc": "全局载入进度条",
+    "cover": "",
+    "tag":"进度条,载入中,加载中,好慢,烦躁不安",
+    "author": {
+        "name": "幽零",
+        "email": "xinbin.xb@alibaba-inc.com",
+        "page": "https://github.com/rhyzx"
+    },
+    "type": "kissy-gallery",
+    "type-url": "http://gallery.kissyui.com/guide"
+}
