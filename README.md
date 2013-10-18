@@ -1,5 +1,7 @@
 ## kprogress
 
+Progress bar for [KISSY](http://kissyui.com), inspired by [NProgress](http://ricostacruz.com/nprogress/).
+
 * 版本：1.0
 * 教程：[http://gallery.kissyui.com/kprogress/1.0/guide/index.html](http://gallery.kissyui.com/kprogress/1.0/guide/index.html)
 * demo：[http://gallery.kissyui.com/kprogress/1.0/demo/index.html](http://gallery.kissyui.com/kprogress/1.0/demo/index.html)
@@ -8,6 +10,6 @@
 
 ### V1.0
 
-    [!]
+    [!] DONE
 
 
